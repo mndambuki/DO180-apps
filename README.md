@@ -3,4 +3,4 @@ DO180 Repository for Sample Applications from laptop.
 
 ongeza paragraph 
 
-hata mimi nimeongeza
+hata mimi nimeongeza noma
